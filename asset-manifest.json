@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trading-with-blockchain/static/css/main.f4630278.css",
+    "main.js": "/trading-with-blockchain/static/js/main.3c5e1c2a.js",
+    "static/media/video.mp4": "/trading-with-blockchain/static/media/video.9d8d556bd710590344ff.mp4",
+    "static/media/terminal.png": "/trading-with-blockchain/static/media/terminal.008c23b28e62ddbd576c.png",
+    "index.html": "/trading-with-blockchain/index.html",
+    "main.f4630278.css.map": "/trading-with-blockchain/static/css/main.f4630278.css.map",
+    "main.3c5e1c2a.js.map": "/trading-with-blockchain/static/js/main.3c5e1c2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4630278.css",
+    "static/js/main.3c5e1c2a.js"
+  ]
+}

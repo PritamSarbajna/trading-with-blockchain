@@ -1,6 +1,23 @@
 # trading-with-blockchain landing page
 
+## About
+ -  A demo landing page website.
+ -  React Js used.
+ -  Tailwind css used
+ 
+ ## To see the project
+[trading with blockchain](https://pritamsarbajna.github.io/trading-with-blockchain/)
 
+## Preview
+
+
+https://user-images.githubusercontent.com/90236635/179691690-86e50042-3527-4d08-8161-d9a55bc7bfb7.mp4
+
+
+
+<img src="https://user-images.githubusercontent.com/90236635/179692123-88785274-f3ea-47ca-8aa8-6701af3784ab.png" >
+<img src="https://user-images.githubusercontent.com/90236635/179692131-a125a17a-ade3-422d-852c-2fcf6f0e5bd4.png" >
+<img src="https://user-images.githubusercontent.com/90236635/179692114-5f0503a7-b781-437a-80b7-bcd96da7d0ff.png" >
 
 ## Available Scripts
 
